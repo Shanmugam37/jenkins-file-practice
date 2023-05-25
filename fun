@@ -2,3 +2,4 @@
 qwertyuiop[
 asdfghjkl;
 zxcvbnm,
+asdfghjqwertyuio
